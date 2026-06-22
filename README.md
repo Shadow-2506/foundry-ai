@@ -1,4 +1,4 @@
-# FoundryAI
+# <img width="512" height="128" alt="FoundryAI (2)" src="https://github.com/user-attachments/assets/8bd13d59-406f-4c77-a500-f2bdf439637b" />
 
 ## Organizational Memory and Strategic Intelligence Platform
 
@@ -14,7 +14,7 @@ Rather than functioning as a simple document repository, FoundryAI acts as an or
 
 ## System Architecture
 
-<img width="1215" height="814" alt="image" src="https://github.com/user-attachments/assets/e19116e3-6e78-4610-8d43-f52ec0b6509c" />
+<img width="75%" height="75%" alt="Untitled design (3)" src="https://github.com/user-attachments/assets/b6dca735-e1b5-47dd-9ed8-6bbfbfa96301" />
 
 ---
 
