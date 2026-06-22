@@ -14,35 +14,7 @@ Rather than functioning as a simple document repository, FoundryAI acts as an or
 
 ## System Architecture
 
-```text
-     ┌───────────────────────┐
-     │         Users         │
-     └───────────┬───────────┘
-                 │
-                 ▼
-     ┌───────────────────────┐
-     │      FoundryAI        │
-     │     Web Platform      │
-     └──┬────────┬────────┬──┘
-        │        │        │
-        ▼        ▼        ▼
-
-┌─────────┐ ┌─────────┐ ┌──────────┐
-│Supabase │ │ Parcle  │ │  Gemini  │
-│ Storage │ │ Memory  │ │    AI    │
-└─────────┘ └─────────┘ └──────────┘
-
-                 │
-                 ▼
-
-      ┌───────────────────────┐
-      │ Strategic Intelligence│
-      │  Time Machine         │
-      │  Memory Vault         │
-      │  Decision Graph       │
-      │  Project Generator    │
-      └───────────────────────┘
-```
+<img width="1215" height="814" alt="image" src="https://github.com/user-attachments/assets/e19116e3-6e78-4610-8d43-f52ec0b6509c" />
 
 ---
 
