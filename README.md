@@ -367,6 +367,36 @@ New knowledge is stored back into memory.
 This creates a self-improving organizational intelligence loop.
 
 ---
+# Memory Learning Cycle
+
+FoundryAI follows a continuous organizational learning loop.
+
+## Learn
+
+Knowledge is captured through:
+
+- Decisions
+- Policies
+- Lessons Learned
+- Project Outcomes
+
+and stored in persistent memory.
+
+## Recall
+
+When users ask questions, relevant historical memories are retrieved from organizational memory.
+
+## Reflect
+
+Retrieved memories are analyzed using AI reasoning to identify patterns, lessons, risks, and opportunities.
+
+## Improve
+
+Insights generated from historical knowledge help teams make more informed decisions, avoid repeating mistakes, and accelerate project planning.
+
+This creates a continuous cycle where every organizational experience contributes to future intelligence.
+
+---
 
 # Tool Utilization
 
